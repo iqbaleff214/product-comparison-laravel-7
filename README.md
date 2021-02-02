@@ -20,24 +20,24 @@ Buat _database_ kosong dengan nama `product-comparison`
 
 ## Pemasangan
 
-Ada dua cara yang bisa dilakukan untuk mengambil aplikasi web ini:
+Ada dua cara yang bisa dilakukan untuk menyalin aplikasi web ini ke perangkat kita:
 
-### Dengan Git
+1.  Dengan Git
 
--   Buka `terminal`, `bash`, `cmd`, atau `git bash`
--   Pastikan kita berada pada direktori yang kita inginkan untuk menyimpan aplikasi web ini
--   Jalankan perintah:
+    -   Buka `terminal`, `bash`, `cmd`, atau `git bash`
+    -   Pastikan kita berada pada direktori yang kita inginkan untuk menyimpan aplikasi web ini
+    -   Jalankan perintah:
 
-    ```bash
-    git clone git@github.com:iqbaleff214/product-comparison-laravel-7.git
-    ```
+        ```bash
+        git clone git@github.com:iqbaleff214/product-comparison-laravel-7.git
+        ```
 
--   Aplikasi web telah terpasang di perangkat
+    -   Aplikasi web telah terpasang di perangkat
 
-### _Download_ ZIP
+2.  _Download_ ZIP
 
--   Kita juga dapat mengunduh _file_ yang berupa zip, dengan menekan tombol Code berwarna hijau kemudian tekan _`Download ZIP`_ atau dapat juga dengan menekan [tautan ini](https://github.com/iqbaleff214/product-comparison-laravel-7/archive/main.zip).
--   _Extract file_ zip yang telah didownload di _folder_ atau direktori yang diinginkan.
+    -   Kita juga dapat mengunduh _file_ yang berupa zip, dengan menekan tombol Code berwarna hijau kemudian tekan _`Download ZIP`_ atau dapat juga dengan menekan [tautan ini](https://github.com/iqbaleff214/product-comparison-laravel-7/archive/main.zip).
+    -   _Extract file_ zip yang telah didownload di _folder_ atau direktori yang diinginkan.
 
 ## Konfigurasi
 
